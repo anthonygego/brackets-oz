@@ -1,0 +1,13 @@
+{
+  "name": "brackets-oz",
+  "version": "1.0.0",
+  "title": "Oz Syntax Highlighting",
+  "description": "Oz Syntax Highlighting for the Brackets editor.",
+  "homepage": "https://github.com/anthonygego/brackets-oz",
+  "author": "Anthony Gégo",
+  "engines": {
+        "brackets": ">=1.5.0"
+    },
+  "license": "GPL",
+  "keywords": ["oz", ".oz", "syntax", "highlighting"]
+}
